@@ -1,6 +1,7 @@
 {
     "name": "razmik/helper",
     "description": "Html tag helpers bootstrap",
+    "version": "-alpha",
     "keywords": [
         "html",
         "bootstrap",
