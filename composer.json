@@ -1,7 +1,7 @@
 {
     "name": "razmik/helper",
-    "description": "Html tag helpers bootstrap",
-    "version": "-alpha",
+    "description": "Html bootstrap tag helpers",
+    "version": "1.0.0",
     "keywords": [
         "html",
         "bootstrap",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php" : "^5.5 || ^7.0"
+        "php" : ">=5.4.0"
     },
     "autoload": {
         "psr-4": {
