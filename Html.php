@@ -55,6 +55,11 @@ class Html
         $html = "<$name" . static::renderTagAttributes($options) . '>';
         return isset(static::$voidElements[strtolower($name)]) ? $html : "$html$content</$name>";
     }
+    
+    public static function icon($name)
+    {
+        
+    }
   
     public static function renderTagAttributes($attributes)
     {
