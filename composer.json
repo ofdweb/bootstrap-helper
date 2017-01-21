@@ -10,11 +10,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ilia Rozinsky",
+            "name": "Ilia Rozinsky"
         }
     ],
     "require": {
-        "php" : "^5.5 || ^7.0",
+        "php" : "^5.5 || ^7.0"
     },
     "autoload": {
         "psr-4": {
