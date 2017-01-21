@@ -1,0 +1,24 @@
+{
+    "name": "razmik/helper",
+    "description": "Html tag helpers bootstrap",
+    "keywords": [
+        "html",
+        "bootstrap",
+        "helper"
+    ],
+    "homepage": "https://github.com/dgan89/bootstrap-helper.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilia Rozinsky",
+        }
+    ],
+    "require": {
+        "php" : "^5.5 || ^7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "razmik\\helper\\": ""
+        }
+    },
+}
