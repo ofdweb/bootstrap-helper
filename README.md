@@ -4,3 +4,5 @@
 # Установка
 В консоле выполнить команду
 composer require razmik/helper "*"
+или
+git clone https://github.com/dgan89/bootstrap-helper
